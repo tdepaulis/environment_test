@@ -14,6 +14,13 @@
           1,
           1,
           null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -352,6 +359,13 @@
         "lines": [
           1,
           1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
           null,
           null
         ]
@@ -375,7 +389,7 @@
           null,
           1,
           1,
-          2,
+          7,
           null,
           null,
           1,
@@ -385,12 +399,39 @@
           1,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
           null,
           null
         ]
       },
       "/csce431/test_app/app/models/book.rb": {
         "lines": [
+          1,
+          1,
+          1,
           1,
           1,
           null
@@ -419,6 +460,10 @@
           null,
           null,
           1,
+          1,
+          null,
+          null,
+          null,
           1,
           null,
           null,
@@ -484,6 +529,6 @@
         ]
       }
     },
-    "timestamp": 1643393466
+    "timestamp": 1643937496
   }
 }
